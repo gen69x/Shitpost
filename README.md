@@ -3,7 +3,7 @@
 **Status**: Active 🔥  
 **Last Updated**: 19 May 2026
 
-🧠 Fun Fact: Otak manusia aktif 24 jam, bahkan saat tidur.
+🌟 'Disiplin adalah jembatan antara goal dan achievement.' - Jim Rohn
 
 ---
 *Maintained automatically with ❤️ by GitHub Actions*
