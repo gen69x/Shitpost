@@ -1,0 +1,89 @@
+name: 🌱 Super Advanced Daily Green Commit
+
+on:
+  schedule:
+    - cron: '45 3 * * *'      # Jam 10:45 WIB
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  daily-green:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6        # ← Diupdate ke v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Set up Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Generate Random Quotes & Activity
+        id: quote
+        run: |
+          QUOTES=(
+            "🌟 'Disiplin adalah jembatan antara goal dan achievement.' - Jim Rohn"
+            "🚀 Konsistensi kecil setiap hari > usaha besar sesekali"
+            "💡 Fun Fact: Octopus punya 3 jantung!"
+            "🔥 Semangat! Setiap green square mendekatkan kamu ke goal."
+            "📈 'The best way to predict the future is to create it.' - Abraham Lincoln"
+            "🌱 Commit kecil hari ini = streak panjang besok"
+            "🧠 Fun Fact: Otak manusia aktif 24 jam, bahkan saat tidur."
+            "🏆 Consistency beats perfection every time"
+            "💪 Small daily improvements = big results"
+          )
+          RANDOM_QUOTE="${QUOTES[$RANDOM % ${#QUOTES[@]}]}"
+          echo "quote=$RANDOM_QUOTE" >> $GITHUB_OUTPUT
+          echo "$RANDOM_QUOTE" > .github/todays-quote.md
+
+      - name: Buat Multiple File Changes
+        run: |
+          DATE=$(date '+%Y-%m-%d')
+          TIME=$(date '+%H:%M:%S')
+          
+          echo "# Quote Hari Ini - $DATE" > .github/todays-quote.md
+          echo "${{ steps.quote.outputs.quote }}" >> .github/todays-quote.md
+          
+          echo "🌱 Commit on $DATE at $TIME" >> .github/daily-log.md
+          echo "Streak maintained ✅" >> .github/daily-log.md
+          
+          echo "# Progress $(date '+%Y')" > .github/progress.md
+          echo "- Daily contribution active" >> .github/progress.md
+          
+          echo "Activity log - $DATE $TIME" > logs/activity-$DATE.md
+          echo "# Random Note\n\nGenerated automatically on $DATE" > notes/daily-note.md
+          
+          git add .github/ logs/ notes/
+
+      - name: Multiple Commits
+        run: |
+          COMMIT_COUNT=$((RANDOM % 5 + 1))
+          for i in $(seq 1 $COMMIT_COUNT); do
+            git commit -m "🌱 Daily green #$i - $(date '+%d %B %Y')" || echo "No changes"
+          done
+
+      - name: Update README
+        run: |
+          cat > README.md << EOF
+          # 🌱 Green Contribution Streak
+
+          **Status**: Active 🔥  
+          **Last Updated**: $(date '+%d %B %Y')
+
+          ${{ steps.quote.outputs.quote }}
+
+          ---
+          *Maintained automatically with ❤️ by GitHub Actions*
+          EOF
+          git add README.md
+
+      - name: Push All Changes
+        uses: stefanzweifel/git-auto-commit-action@v7   # ← Diupdate ke v7
+        with:
+          commit_message: "🌿 Final green update - $(date '+%d %B %Y')"
