@@ -3,7 +3,7 @@
 **Status**: Active 🔥  
 **Last Updated**: 20 May 2026
 
-🌟 'Disiplin adalah jembatan antara goal dan achievement.' - Jim Rohn
+🏆 Consistency beats perfection every time
 
 ---
 *Maintained automatically with ❤️ by GitHub Actions*
