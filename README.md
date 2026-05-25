@@ -1,9 +1,9 @@
 # 🌱 Green Contribution Streak
 
 **Status**: Active 🔥  
-**Last Updated**: 24 May 2026
+**Last Updated**: 25 May 2026
 
-🌟 'Disiplin adalah jembatan antara goal dan achievement.' - Jim Rohn
+🌱 Commit kecil hari ini = streak panjang besok
 
 ---
 *Maintained automatically with ❤️ by GitHub Actions*
