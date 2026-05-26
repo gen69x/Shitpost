@@ -1,2 +1,2 @@
-# Quote Hari Ini - 2026-05-25
-🌱 Commit kecil hari ini = streak panjang besok
+# Quote Hari Ini - 2026-05-26
+📈 'The best way to predict the future is to create it.' - Abraham Lincoln
