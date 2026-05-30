@@ -1,2 +1,2 @@
-# Quote Hari Ini - 2026-05-29
-🌱 Commit kecil hari ini = streak panjang besok
+# Quote Hari Ini - 2026-05-30
+🏆 Consistency beats perfection every time
