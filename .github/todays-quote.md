@@ -1,2 +1,2 @@
-# Quote Hari Ini - 2026-06-02
-💡 Fun Fact: Octopus punya 3 jantung!
+# Quote Hari Ini - 2026-06-03
+🔥 Semangat! Setiap green square mendekatkan kamu ke goal.
