@@ -1,9 +1,9 @@
 # 🌱 Green Contribution Streak
 
 **Status**: Active 🔥  
-**Last Updated**: 09 June 2026
+**Last Updated**: 10 June 2026
 
-🔥 Semangat! Setiap green square mendekatkan kamu ke goal.
+🚀 Konsistensi kecil setiap hari > usaha besar sesekali
 
 ---
 *Maintained automatically with ❤️ by GitHub Actions*
