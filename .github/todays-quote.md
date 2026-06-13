@@ -1,2 +1,2 @@
-# Quote Hari Ini - 2026-06-12
-🌱 Commit kecil hari ini = streak panjang besok
+# Quote Hari Ini - 2026-06-13
+🚀 Konsistensi kecil setiap hari > usaha besar sesekali
