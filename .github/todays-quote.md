@@ -1,2 +1,2 @@
-# Quote Hari Ini - 2026-06-15
-📈 'The best way to predict the future is to create it.' - Abraham Lincoln
+# Quote Hari Ini - 2026-06-16
+🧠 Fun Fact: Otak manusia aktif 24 jam, bahkan saat tidur.
