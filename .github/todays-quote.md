@@ -1,2 +1,2 @@
-# Quote Hari Ini - 2026-06-17
-📈 'The best way to predict the future is to create it.' - Abraham Lincoln
+# Quote Hari Ini - 2026-06-18
+🚀 Konsistensi kecil setiap hari > usaha besar sesekali
