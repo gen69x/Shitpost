@@ -1,9 +1,9 @@
 # 🌱 Green Contribution Streak
 
 **Status**: Active 🔥  
-**Last Updated**: 17 June 2026
+**Last Updated**: 18 June 2026
 
-📈 'The best way to predict the future is to create it.' - Abraham Lincoln
+🚀 Konsistensi kecil setiap hari > usaha besar sesekali
 
 ---
 *Maintained automatically with ❤️ by GitHub Actions*
