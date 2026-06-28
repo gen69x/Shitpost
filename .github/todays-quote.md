@@ -1,2 +1,2 @@
-# Quote Hari Ini - 2026-06-27
-💪 Small daily improvements = big results
+# Quote Hari Ini - 2026-06-28
+🏆 Consistency beats perfection every time
