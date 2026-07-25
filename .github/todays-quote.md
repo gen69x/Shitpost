@@ -1,2 +1,2 @@
-# Quote Hari Ini - 2026-07-24
-📈 'The best way to predict the future is to create it.' - Abraham Lincoln
+# Quote Hari Ini - 2026-07-25
+🔥 Semangat! Setiap green square mendekatkan kamu ke goal.
