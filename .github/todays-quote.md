@@ -1,2 +1,2 @@
-# Quote Hari Ini - 2026-08-05
-🌟 'Disiplin adalah jembatan antara goal dan achievement.' - Jim Rohn
+# Quote Hari Ini - 2026-08-06
+🏆 Consistency beats perfection every time
