@@ -1,2 +1,2 @@
-# Quote Hari Ini - 2026-08-16
-🔥 Semangat! Setiap green square mendekatkan kamu ke goal.
+# Quote Hari Ini - 2026-08-17
+🌟 'Disiplin adalah jembatan antara goal dan achievement.' - Jim Rohn
