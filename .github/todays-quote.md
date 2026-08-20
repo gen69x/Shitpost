@@ -1,2 +1,2 @@
-# Quote Hari Ini - 2026-08-19
-💪 Small daily improvements = big results
+# Quote Hari Ini - 2026-08-20
+📈 'The best way to predict the future is to create it.' - Abraham Lincoln
