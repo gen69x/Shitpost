@@ -1,2 +1,2 @@
-# Quote Hari Ini - 2026-09-07
-🔥 Semangat! Setiap green square mendekatkan kamu ke goal.
+# Quote Hari Ini - 2026-09-08
+💪 Small daily improvements = big results
