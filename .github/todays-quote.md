@@ -1,2 +1,2 @@
-# Quote Hari Ini - 2026-09-11
-🏆 Consistency beats perfection every time
+# Quote Hari Ini - 2026-09-12
+🚀 Konsistensi kecil setiap hari > usaha besar sesekali
