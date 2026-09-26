@@ -1,2 +1,2 @@
-# Quote Hari Ini - 2026-09-25
-🌟 'Disiplin adalah jembatan antara goal dan achievement.' - Jim Rohn
+# Quote Hari Ini - 2026-09-26
+📈 'The best way to predict the future is to create it.' - Abraham Lincoln
