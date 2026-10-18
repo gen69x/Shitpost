@@ -1,2 +1,2 @@
-# Quote Hari Ini - 2026-10-17
-🧠 Fun Fact: Otak manusia aktif 24 jam, bahkan saat tidur.
+# Quote Hari Ini - 2026-10-18
+🚀 Konsistensi kecil setiap hari > usaha besar sesekali
