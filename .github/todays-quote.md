@@ -1,2 +1,2 @@
-# Quote Hari Ini - 2026-10-26
-🌟 'Disiplin adalah jembatan antara goal dan achievement.' - Jim Rohn
+# Quote Hari Ini - 2026-10-27
+🚀 Konsistensi kecil setiap hari > usaha besar sesekali
