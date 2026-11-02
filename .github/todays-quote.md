@@ -1,2 +1,2 @@
-# Quote Hari Ini - 2026-11-01
-🔥 Semangat! Setiap green square mendekatkan kamu ke goal.
+# Quote Hari Ini - 2026-11-02
+🚀 Konsistensi kecil setiap hari > usaha besar sesekali
