@@ -1,2 +1,2 @@
-# Quote Hari Ini - 2026-11-10
-🧠 Fun Fact: Otak manusia aktif 24 jam, bahkan saat tidur.
+# Quote Hari Ini - 2026-11-11
+🌟 'Disiplin adalah jembatan antara goal dan achievement.' - Jim Rohn
