@@ -1,2 +1,2 @@
-# Quote Hari Ini - 2026-11-21
-💡 Fun Fact: Octopus punya 3 jantung!
+# Quote Hari Ini - 2026-11-22
+🧠 Fun Fact: Otak manusia aktif 24 jam, bahkan saat tidur.
