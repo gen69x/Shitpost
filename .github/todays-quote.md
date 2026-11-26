@@ -1,2 +1,2 @@
-# Quote Hari Ini - 2026-11-25
-💡 Fun Fact: Octopus punya 3 jantung!
+# Quote Hari Ini - 2026-11-26
+🏆 Consistency beats perfection every time
